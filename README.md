@@ -1,3 +1,3 @@
 # vscode-cpp-debug
 
-Sample C++ debugging app
+Sample C++ Unit Test and Debugging app
